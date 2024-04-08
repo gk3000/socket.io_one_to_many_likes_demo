@@ -1,19 +1,21 @@
 # socket.io 
 
-## one-to-all demo 
+### express, ract, react native
 
-Sever emitting events to all connected clients
+## one-to-many demo 
+
+Visitors initiating private events to other visitors
 
 ### How to run
 
 with SSH key:
 ```bash
-git clone git@github.com:gk3000/socket.io_one_to_all_demo.git
+git clone git@github.com:gk3000/socket.io_one_to_many_likes_demo.git
 ```
 
 with authorization token (password):
 ```bash
-git clone https://github.com/gk3000/socket.io_one_to_all_demo.git
+git clone https://github.com/gk3000/socket.io_one_to_many_likes_demo.git
 ```
 
 then:
