@@ -1,6 +1,6 @@
 # socket.io 
 
-### express, ract, react native
+### express, react, react native
 
 ## one-to-many demo 
 
